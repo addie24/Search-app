@@ -1,0 +1,5 @@
+Test Scenarios:
+1. Verify that user is able to enter search words to into the search box
+2. Verify that the search results is related to the search word entered
+3. Verify that the search results displayed excludes paid ads, image results
+4. Verify that the results displayed are clickable
